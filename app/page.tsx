@@ -35,7 +35,7 @@ export default function Home() {
           <Card className="p-6 hover:shadow-lg transition-shadow">
             <div className="text-center mb-6">
               <GraduationCap className="w-12 h-12 mx-auto text-blue-500 mb-4" />
-              <h2 className="text-2xl font-semibold mb-2">I'm a Teacher</h2>
+              <h2 className="text-2xl font-semibold mb-2">I&apos;m a Teacher</h2>
               <p className="text-gray-600 dark:text-gray-400">
                 Create and manage your quizzes
               </p>
@@ -52,7 +52,7 @@ export default function Home() {
           <Card className="p-6 hover:shadow-lg transition-shadow">
             <div className="text-center mb-6">
               <BookOpen className="w-12 h-12 mx-auto text-green-500 mb-4" />
-              <h2 className="text-2xl font-semibold mb-2">I'm a Student</h2>
+              <h2 className="text-2xl font-semibold mb-2">I&apos;m a Student</h2>
               <p className="text-gray-600 dark:text-gray-400">
                 Take a quiz using an access key
               </p>
